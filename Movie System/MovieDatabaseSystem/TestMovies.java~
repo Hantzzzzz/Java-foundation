@@ -1,0 +1,15 @@
+
+/**
+ * Write a description of class TestMovies here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class TestMovies
+{
+    public void testMethod()
+    {
+        Movie movie = new Movie();
+        movie.get
+    }   
+}

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MovieList()
+comment1.params=movie
+comment1.target=boolean\ addMovie(Movie)
+comment1.text=\ \r\n\ addMovie\ method\ for\ adding\ movie\ into\ the\ MovieSystem\r\n\ @return\ true\ or\ false\ \ \ \ \ \ \r\n
+comment2.params=title
+comment2.target=boolean\ removeMovie(java.lang.String)
+comment2.text=\ \r\n\ removeMovie\ method\ for\ deleting\ movie\ from\ the\ MovieSystem\r\n\ @return\ true\ or\ false\ \ \ \ \ \ \r\n
+comment3.params=title
+comment3.target=boolean\ searchMovie(java.lang.String)
+comment3.text=\ \r\n\ searchMovie\ method\ for\ searching\ movie\ in\ the\ MovieSystem\ \r\n\ @return\ true\ or\ false\ \ \ \ \ \ \r\n
+comment4.params=rating
+comment4.target=boolean\ likeMovie(java.lang.String)
+comment4.text=\ \r\n\ removeMovie\ method\ for\ listing\ a\ list\ of\ movie\ from\ the\ MovieSystem\r\n\ @return\ true\ or\ false\ \ \ \ \ \ \r\n
+comment5.params=
+comment5.target=void\ writeFile()
+comment5.text=\ \r\n\ Ouput\ the\ value\ to\ a\ txt\ file\ \r\n
+comment6.params=
+comment6.target=void\ readFile()
+comment6.text=\ \r\n\ input\ the\ value\ from\ a\ txt\ file\ \r\n
+numComments=7

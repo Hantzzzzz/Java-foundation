@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MovieSystem()
+comment1.params=
+comment1.target=void\ strat()
+comment1.text=\r\n\ This\ method\ is\ the\ main\ method\ to\ achieve\ the\ function\r\n\ of\ this\ program.\ It\ also\ uses\ many\ methods\ MovieList\ class\r\n
+comment2.params=
+comment2.target=void\ search()
+comment3.params=
+comment3.target=void\ add()
+comment4.params=
+comment4.target=void\ delete()
+comment5.params=
+comment5.target=void\ like()
+comment6.params=
+comment6.target=void\ display()
+numComments=7
