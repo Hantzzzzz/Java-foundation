@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Constructor\ for\ Game\ objects.\ This\ constructor\ \r\n\ creates\ two\ new\ player\ with\ "Null"\ name.\r\n
+comment1.params=
+comment1.target=void\ start()
+comment1.text=\r\n\ This\ method\ is\ the\ main\ method\ to\ achieve\ the\ function\r\n\ of\ this\ program.\ It\ also\ uses\ many\ methods\ from\ Dice\ and\r\n\ Player.\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+numComments=3

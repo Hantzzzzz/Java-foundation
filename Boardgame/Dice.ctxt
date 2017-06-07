@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment1.params=newDiceValue
+comment1.target=Dice(int)
+comment2.params=
+comment2.target=int\ getDiceValue()
+comment3.params=
+comment3.target=void\ addNumbers()
+comment4.params=
+comment4.target=void\ temp()
+numComments=5
